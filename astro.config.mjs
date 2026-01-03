@@ -55,9 +55,9 @@ export default defineConfig({
           ],
         },
         manifest: {
-          name: "The Wedding of Fera & Yahya",
-          short_name: "Fera & Yahya",
-          description: "Undangan Pernikahan Digital Fera & Yahya",
+          name: "The Wedding of Putri & Hifni",
+          short_name: "Putri & Hifni",
+          description: "Undangan Pernikahan Digital Putri & Hifni",
           theme_color: "#020617",
           background_color: "#020617",
           display: "standalone",
