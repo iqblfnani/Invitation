@@ -1,13 +1,11 @@
 node_modules/
 .pnp
 .pnp.js
-dist/
 .astro/
 *.db
 *.db-shm
 *.db-wal
 wedding.db
-.env
 .env.production
 .env.development
 .env.local
